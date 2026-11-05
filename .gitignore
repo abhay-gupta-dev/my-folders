@@ -1,0 +1,29 @@
+# Dependencies and generated files
+**/node_modules/
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.next/
+**/dist/
+**/build/
+**/coverage/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local databases, logs, and backups
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/*.log
+**/backups/

@@ -1,0 +1,38 @@
+h1{
+	text-align: right;
+	color: #000000;
+	
+	width: 50%;
+	text-decoration: red underline;
+	font-family: cursive;
+}
+h3{
+	text-align: center;
+	text-decoration: overline;
+	font-family: cursive;
+
+}
+h2{
+	text-align: center;
+	text-decoration: double blue underline;
+	font-family: "Goudy Bookletter 1911", sans-serif;
+
+
+}
+
+
+button{
+	color: white;
+	background-color: blue;
+}
+p{
+	color: white;
+	background-color: black;
+	text-align: justify;
+	font-weight: 600;
+	line-height: 2.9;
+	letter-spacing:normal;
+	font-size: normal;
+	
+
+}

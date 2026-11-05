@@ -1,0 +1,23 @@
+/**{
+	font-family: Courier New;
+
+
+}
+h1{
+	color:#1b74e4;
+}
+.userbtn{
+	background-color: aqua;
+}
+body{
+	background-color: wheat;
+}*/
+div{
+	background-color: red;
+}
+input{
+	background-color:inherit;
+}
+button{
+	background-color:inherit;
+}

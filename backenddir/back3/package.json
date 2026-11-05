@@ -1,0 +1,16 @@
+{
+  "name": "back3",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "license": "ISC",
+  "author": "abhay gupta",
+  "type": "module",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "figlet": "^1.9.4",
+    "random-words": "^2.0.1"
+  }
+}

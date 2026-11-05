@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+node_modules/
+dist/
+.vite/
+*.log
+raw/
+.vercel/
+__pycache__/

@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "this is my project",
+  "license": "ISC",
+  "author": "Abhay Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "figlet": "^1.9.4",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
